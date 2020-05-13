@@ -1,6 +1,3 @@
-<? php
-print 'hello'
-print 'hello'
-
-
+<?php
+echo "My first PHP script!";
 ?>
